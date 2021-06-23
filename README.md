@@ -1,6 +1,6 @@
 # My Portfolio WebSite
 ### This App list different aspects of my life e.g. Education,Experience, Projects etc in the form of a beautiful portfolio website.
-### *[click here] to explore the website*
+### [Click here](https://devsagarkhatri.github.io/) to explore the website 
 #### *Screenshots:*
 ![image](https://user-images.githubusercontent.com/29791684/123164712-eeb2b380-d490-11eb-86e4-d7ba083e16ca.png)
 HomePage and hamburger Menu
